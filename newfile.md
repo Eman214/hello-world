@@ -1,3 +1,3 @@
 This is a new file.
 
-THis is to practice push and pull requests.
+This is to practice push and pull requests.
